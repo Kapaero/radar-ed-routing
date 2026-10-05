@@ -1,0 +1,17 @@
+{
+ "runId": "uo-240-240-100",
+ "trajectoryPath": "Data/external/juelich/uo/uo-240-240-100.txt",
+ "frameRate": 16,
+ "corridorWidth": 2.4,
+ "exitWidth": 1.0,
+ "corridorEntryY": 4.0,
+ "exitY": -4.0,
+ "passageEntryY": 8.0,
+ "passageLeftX": -0.37,
+ "passageRightX": 3.25,
+ "dt": 0.04,
+ "seed": 1,
+ "speedMean": 1.455,
+ "speedSd": 0.189,
+ "speedMax": 2.5
+}

@@ -1,0 +1,14 @@
+{
+ "runId": "uo-120-300-300",
+ "trajectoryPath": "Data/external/juelich/uo/uo-120-300-300.txt",
+ "frameRate": 16,
+ "corridorWidth": 3.0,
+ "exitWidth": 3.0,
+ "corridorEntryY": 4.0,
+ "exitY": -4.0,
+ "passageEntryY": 8.0,
+ "passageLeftX": -0.46,
+ "passageRightX": 3.47,
+ "dt": 0.04,
+ "seed": 1
+}

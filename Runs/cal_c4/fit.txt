@@ -1,0 +1,7 @@
+cell-seconds: 4147344, true density mean 0.034, max 0.627
+MAE raw fused 0.0295, calibrated 0.0378
+  true in [0, 0.05): n=3369079, raw bias +0.008, calibrated bias +0.021
+  true in [0.05, 0.2): n=606881, raw bias -0.043, calibrated bias -0.043
+  true in [0.2, 0.5): n=170293, raw bias -0.270, calibrated bias -0.263
+  true in [0.5, 10): n=1091, raw bias -0.472, calibrated bias -0.467
+{"calibrationX": [0.0, 0.003, 0.004, 0.005, 0.025, 0.027, 0.031, 0.046, 0.054, 0.063, 0.105, 0.558], "calibrationY": [0.0174, 0.0174, 0.0174, 0.0281, 0.0281, 0.0281, 0.0281, 0.0592, 0.0592, 0.0798, 0.0928, 0.4198]}

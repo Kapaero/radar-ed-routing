@@ -1,0 +1,17 @@
+{
+ "runId": "uo-180-180-095",
+ "trajectoryPath": "Data/external/juelich/uo/uo-180-180-095.txt",
+ "frameRate": 16,
+ "corridorWidth": 1.8,
+ "exitWidth": 0.95,
+ "corridorEntryY": 4.0,
+ "exitY": -4.0,
+ "passageEntryY": 8.0,
+ "passageLeftX": -0.73,
+ "passageRightX": 2.68,
+ "dt": 0.04,
+ "seed": 1,
+ "speedMean": 1.455,
+ "speedSd": 0.189,
+ "speedMax": 2.5
+}
